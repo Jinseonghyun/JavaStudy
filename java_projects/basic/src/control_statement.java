@@ -36,13 +36,10 @@ public class control_statement {
     i = i + 1;
 
     System.out.println(i);
-    i = i + 1;
+    i +=1;
 
     System.out.println(i);
-    i = i + 1;
-
-    System.out.println(i);
-    i = i + 1;
+    i ++;
 
     System.out.println(i);
 // --------------------------------증감연산자----------------------------------------------
